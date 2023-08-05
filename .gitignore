@@ -1,3 +1,6 @@
 # ignore this file
 .claspignore
 .env
+.clasp.json
+.gitignore
+.DS_Store
